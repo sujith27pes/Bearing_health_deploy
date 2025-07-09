@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tensorflow
+tqdm
+opencv-python
+ipywidgets
+sentence-transformers
+faiss-cpu
+requests
+
